@@ -1,0 +1,14 @@
+.link {
+    padding-left: 40px;
+    position: relative;
+    &::before {
+        background-color: #fff;
+        content: '';
+        height: 2px;
+        left: 0;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 30px;
+    }
+}

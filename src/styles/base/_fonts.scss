@@ -1,0 +1,48 @@
+@font-face {
+	font-family: 'Geometria';
+	src: local('Geometria'),
+		url('../fonts/Geometria.woff') format('woff'),
+		url('../fonts/Geometria.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Geometria';
+	src: local('Geometria'),
+		url('../fonts/Geometria-Light.woff') format('woff'),
+		url('../fonts/Geometria-Light.woff2') format('woff2');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Geometria';
+	src: local('Geometria'),
+		url('../fonts/Geometria-Thin.woff') format('woff'),
+		url('../fonts/Geometria-Thin.woff2') format('woff2');
+	font-weight: 100;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'TTNorms';
+	src: local('TTNorms'),
+		url('../fonts/TTNorms-Regular.woff') format('woff'),
+		url('../fonts/TTNorms-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'TTNorms';
+	src: local('TTNorms'),
+		url('../fonts/TTNorms-Bold.woff') format('woff'),
+		url('../fonts/TTNorms-Bold.woff2') format('woff2');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'TTNorms';
+	src: local('TTNorms'),
+		url('../fonts/TTNorms-Light.woff') format('woff'),
+		url('../fonts/TTNorms-Light.woff2') format('woff2');
+	font-weight: 300;
+	font-style: normal;
+}
